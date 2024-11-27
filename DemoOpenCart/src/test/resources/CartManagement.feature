@@ -1,4 +1,5 @@
 Feature: Cart Management
+
   As a user, I want to manage items in my shopping cart so that I can purchase the products I need.
 
   @Cart @DDT @Positive @Medium
